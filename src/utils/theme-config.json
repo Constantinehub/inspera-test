@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "data": {
+    "light": {
+      "id": "001",
+      "name": "Light",
+      "colors": {
+        "primary": "#FFFFFF",
+        "secondary": "#EFEFEF",
+        "text": "#303030",
+        "button": {
+          "text": "#000",
+          "background": "#EFEFEF"
+        }
+      }
+    },
+    "dark": {
+      "id": "002",
+      "name": "Dark",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#2B2B2B",
+        "text": "#ffffff",
+        "button": {
+          "text": "#fff",
+          "background": "#414141"
+        }
+      }
+    }
+  }
+}
